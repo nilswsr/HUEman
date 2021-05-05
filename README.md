@@ -1,5 +1,5 @@
 # HUEmane
-With HUEmane, you can give your Philips Hue lights some life.  
+With HUEman, you can give your Philips Hue lights some life.  
 This project is based on the [phue library](https://github.com/studioimaginaire/phue).
 
 ## Requirements
